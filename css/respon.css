@@ -1,0 +1,768 @@
+@media (max-width: 1200px) {
+	.home-banner-area .container:before {
+		display: none;
+	}
+	.button_1 {
+		display: none;
+	}
+	.brand-wrap {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	#nav-menu-container {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.home-banner-area {
+		padding-top: 100px;
+		padding-bottom: 23px;
+	}
+	.box-form {
+		width: 100%;
+	}
+	
+	.box-form {
+		width: 100%;
+		padding: 40px 50px;
+		position: relative;
+		bottom: inherit;
+	}
+	.banner-img {
+		display: block;
+		margin-top: 30px;
+	}
+	.brands-area .col-lg-4 {
+		margin-bottom: 12px;
+	}
+	.brands-area .col-lg-4:last-child {
+		margin-bottom: 0;
+	}
+	
+	.card {
+		height: auto;
+	}
+	.box-form .title-form {
+		font-size: 2.2rem;
+	}
+	.left-price {
+		padding-left: 0;
+	}
+}
+@media(max-width:1024px)
+{
+	.on-title
+	{
+		font-size: 20px;
+	}
+	.banner-content h3
+	{
+		font-size: 20px;
+	}
+	.list-ques li
+	{
+		font-size: 1.7rem;
+	}
+	.text-ques p
+	{
+		font-size: 1.6rem;
+	}
+	.box-form
+	{
+		width: 60%;
+	}
+	.js_submit
+	{
+		font-size: 1.5rem;
+	}
+	.opening_hours
+	{
+		padding: 10px;
+	}
+	.opening_hours_list li img
+	{
+		width: 30px;
+	}
+	.content-top-about p
+	{
+		font-size: 15px;
+	}
+	.left-price span {
+		font-size: 2.4rem;
+	}
+}
+@media (max-width: 1000px) {
+	.home-banner-area {
+		padding-top: 155px;
+	}
+	.banner-img {
+		text-align: center;
+	}
+	.banner-img img {
+		max-width: 65%;
+	}
+	.img-why .img-fluid {
+		max-width: 100%;
+	}
+	.img-why {
+		width: 80%;
+		margin: auto;
+		margin-top: 30px;
+		text-align: left!important;
+	}
+}
+
+@media (max-width: 768px) {
+	.banner-img img
+	{
+		max-width: 60% !important;
+	}
+	.section-title
+	{
+		font-size: 21px;
+	}
+	.left-price
+	{
+		width: 50%;
+	}
+	#calltrap-ico {
+		width: 22px;
+		height: 22px
+	}
+	#calltrap-btn {
+		width: 55px;
+		height: 55px;
+		left: 15px
+	}
+	.button_1:hover {
+		background: transparent;
+		transition: 0.5s;
+	}
+
+	.owl-dots {
+		display: block!important;
+		text-align: center;
+	}
+	.owl-carousel .owl-nav button.owl-prev,
+	.owl-carousel .owl-nav button.owl-next,
+	.owl-carousel button.owl-dot {
+		width: 7px;
+		height: 7px;
+		border-radius: 50%;
+		background: black;
+		background: #fcca05;
+		margin: 0 5px;
+	}
+	.owl-dots button.active {
+		width: 10px;
+		height: 10px;
+	}
+	.img-bottom .img-fluid {
+		width: 80%;
+	}
+	.img-bottom {
+		text-align: center;
+	}
+
+	.top-about {
+		padding-bottom: 20px;
+	}
+	.img-doctor .img-fluid {
+		width: 60%;
+	}
+	.img-doctor {
+		text-align: center;
+	}
+	.button_1 {
+		display: block;
+	}
+	.sec-5 {
+		padding-top: 50px;
+		padding-bottom: 0;
+	}
+	.sec-6 .card img {
+		width: 100%!important;
+	}
+
+	.brand-wrap {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	.brands-area .col-lg-4 {
+		margin-bottom: 12px;
+	}
+	.brands-area .col-lg-4:last-child {
+		margin-bottom: 0;
+	}
+	.home-banner-area .container:before {
+		display: none;
+	}
+
+	.img-path-2 {
+		right: 0;
+	}
+	.home-banner-area:after {
+		display: none;
+	}
+	.footer_content {
+		padding-top: 50px;
+	}
+	.process .text-bottom:before {
+		display: none;
+	}
+	.process .text-bottom {
+		width: 100%;
+		margin: auto;
+		text-align: center;
+	}
+	.process .img-bottom {
+		margin-bottom: 0;
+		margin-top: 30px;
+	}
+	.col-right .card-process:last-child {
+		margin-bottom: 0!important;
+	}
+	.process .sec_3 {
+		padding-top: 53px;
+	}
+	.process .bg-yellow {
+		display: none;
+	}
+	#shape-white-2,
+	#shape-white,
+	#bg-white,
+	#bg-white-2 {
+		display: none;
+	}
+	.content-top-about {
+		padding: 23px 20px;
+		text-align: justify;
+		z-index: 1;
+	}
+	.quote-bacsi .img-fluid,
+	.quote-bacsi-2 .img-fluid {
+		width: 15px;
+	}
+	.quote-bacsi {
+		top: 8px;
+		left: 5px;
+	}
+	.about-lycium {
+		background-position: right;
+	}
+	.process #img-left {
+		display: none;
+	}
+
+	.text-top-process {
+		width: 100%;
+		text-align: center;
+	}
+	.process .sec_2 {
+		background: #fdf9ed;
+		margin-top: 0;
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.process .sec_1 {
+		padding-bottom: 50px;
+	}
+	.process .col-left {
+		padding-right: 15px;
+	}
+	.process .col-right {
+		padding-left: 15px;
+	}
+	.process .number {
+		top: 50%;
+		transform: translateY(-50%);
+		left: -65px;
+		right: inherit;
+	}
+	.process .number .img-fluid {
+		max-width: 40%!important;
+	}
+	.process .sec_2 .img-fluid {
+		max-width: 50%;
+	}
+	.show-mobile {
+		display: block!important;
+	}
+	.hide-mobile {
+		display: none!important;
+	}
+	.card-process {
+		text-align: center;
+	}
+	
+	.process .sec_2 h6 {
+		font-size: 1.2rem;
+		margin-top: 10px;
+	}
+	.col-right .card-process {
+		margin-bottom: 40px!important;
+	}
+	.button_1 {
+		background: transparent;
+		text-align: left!important;
+		margin-right: inherit!important;
+	}
+	.button_1 a {
+		padding-left: 15px!important;
+		padding-right: inherit!important;
+		line-height: inherit!important;
+	}
+	.mobile-nav {
+		justify-content: space-between;
+	}
+
+	#mobile-nav-toggle {
+		right: 5px;
+	}
+	.on-title {
+		font-size: 22px;
+	}
+
+	.banner-content .designation {
+		font-size: 16px;
+		margin-bottom: 30px;
+	}
+	.sec-1 .primary-btn:before {
+		font-size: 14px;
+	}
+	.primary-btn {
+		padding: 0 20px;
+	}
+	.banner-img {
+		display: block;
+		margin-top: 30px;
+	}
+	.home-banner-area {
+		padding-top: 100px;
+		padding-bottom: 0;
+	}
+	.banner-img img {
+		max-width: 80%;
+	}
+	.banner-img {
+		text-align: center;
+	}
+	.brands-area .row .col-md-4 {
+		margin-bottom: 12px;
+	}
+	.brands-area .row .col-md-4:last-child {
+		margin-bottom: 0;
+	}
+	.brand-wrap {
+		border-radius: 35px;
+	}
+	.box-form {
+		width: 100%;
+		padding: 40px 60px;
+		position: relative;
+		bottom: inherit;
+	}
+	
+	.box-price {
+		width: 55%;
+	}
+	.left-price {
+		padding-left: 0;
+	}
+	.left-price span
+	{
+		font-size: 2rem;
+	}
+	.right-price {
+		width: 54%;
+	}
+	.right-price span {
+		padding: 12px 0px;
+		font-size: 2.2rem;
+	}
+	
+	.mobile-nav-active #mobile-nav-toggle i {
+		color: white!important;
+	}
+	.js_submit {
+		background: #fcca05;
+		color: white;
+		text-transform: uppercase;
+		font-size: 16px;
+		padding: 10px 35px;
+		font-weight: 500;
+		cursor: pointer;
+	}
+	.sec-3 {
+		padding: 50px 0;
+		padding-bottom: 0;
+	}
+	.title-sec {
+		width: 100%;
+	}
+	.title-mini-sec {
+		font-size: 21px;
+		margin-bottom: 40px;
+	}
+	.title-mini-sec:after {
+		position: absolute;
+		content: "";
+		left: 50%;
+		transform: translateX(-50%);
+		height: 4px;
+		width: 80px;
+		border-radius: 999px;
+		background: #fcca05;
+		bottom: -7px;
+	}
+	#leaf-1 {
+		width: 130px;
+	}
+	#leaf-2 {
+		width: 120px;
+		z-index: 0;
+		right: 0;
+	}
+	.opening_hours {
+		left: 0;
+		width: 100%;
+		padding-left: 0;
+	}
+	.box-text-sec3 {
+		background: #ffffffe0;
+	}
+	.img-why {
+		width: 80%;
+		margin: auto;
+		margin-top: 30px;
+		text-align: left!important;
+	}
+	
+	.ser-h,
+	.service_text {
+		height: auto;
+	}
+	.service_text p {
+		display: block;
+		margin-top: 80px;
+	}
+	.row-2-tp .mb-0 {
+		margin-bottom: 55px!important;
+	}
+	.row-2-tp .mb-0:last-child {
+		margin-bottom: 0!important;
+	}
+	.sec-6 .mb-5 {
+		margin-bottom: 0!important;
+	}
+	.card {
+		height: auto;
+		margin-bottom: 40px;
+	}
+	.box-video {
+		width: 100%;
+		height: 300px;
+	}
+	.img-doctor {
+		margin-top: 30px;
+	}
+	.about-lycium .mb-5 {
+		margin-bottom: 1rem!important;
+	}
+	.service-style-text {
+		display: none;
+    }
+    .question .col-md-7 {
+		order: 2
+	}
+	.img-chungnhan {
+		margin-bottom: 30px
+	}
+	.box-form {
+		width: 100%;
+		padding: 50px 25px
+	}
+	.img-chungnhan {
+		text-align: center
+	}
+	.img-chungnhan img {
+		height: 365px
+	}
+	.right-price {
+		width: 55%
+	}
+	.left-price {
+		padding-left: 0
+	}
+	.box-form__img {
+		display: none
+	}
+	.box-price {
+		width: 70%
+	}
+	#img-mobile {
+		display: block
+	}
+	#img-mobile {
+		display: block;
+		position: relative;
+		left: inherit;
+		bottom: inherit;
+		text-align: center;
+		margin-bottom: 25px
+	}
+	.sec-3-about
+	{
+		height: 40px;
+	}
+}
+
+@media (max-width: 520px) {
+	.img-box-sp:after {
+		border-radius: 5px;
+	}
+	.img-box-sp {
+		top: 7px!important;
+		left: 26px!important;
+		width: 95px!important;
+	}
+	.img-box-sp img {
+		max-width: 100%!important;
+	}
+	.section-gap-top {
+		padding-top: 100px;
+	}
+	.contact_content_title {
+		font-size: 23px;
+	}
+	.contact_button {
+		width: 70%;
+	}
+	.on-title {
+		font-size: 16px;
+	}
+
+	.banner-content .designation {
+		font-size: 16px;
+	}
+	.sec-1 .primary-btn:before {
+		font-size: 14px;
+	}
+	.primary-btn {
+		padding: 0 20px;
+	}
+	.banner-img {
+		display: block;
+	}
+	.home-banner-area {
+		padding-top: 100px;
+		padding-bottom: 0;
+	}
+	.banner-img img {
+		max-width: 90%;
+	}
+	.banner-img {
+		text-align: center;
+	}
+	.brands-area .row .col-md-4 {
+		margin-bottom: 12px;
+	}
+	.brands-area .row .col-md-4:last-child {
+		margin-bottom: 0;
+	}
+	.brand-wrap {
+		border-radius: 35px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.box-form {
+		width: 100%;
+		padding: 40px 20px;
+		position: relative;
+		bottom: inherit;
+	}
+	.box-form .title-form {
+		font-size: 1.6rem;
+	}
+	
+	.box-price {
+		width: 100%;
+	}
+	.left-price {
+		padding-left: 0;
+	}
+	.right-price {
+		width: 54%;
+	}
+	.right-price span {
+		padding: 12px 0px;
+		font-size: 1.4rem;
+	}
+	
+	.mobile-nav-active #mobile-nav-toggle i {
+		color: white!important;
+	}
+	.js_submit {
+		background: #fcca05;
+		color: white;
+		text-transform: uppercase;
+		font-size: 16px;
+		padding: 10px 35px;
+		font-weight: 500;
+		cursor: pointer;
+	}
+	.sec-3 {
+		padding: 50px 0;
+		padding-bottom: 0;
+	}
+	.title-sec {
+		width: 100%;
+	}
+	.title-mini-sec {
+		font-size: 21px;
+		margin-bottom: 40px;
+	}
+	.title-mini-sec:after {
+		position: absolute;
+		content: "";
+		left: 50%;
+		transform: translateX(-50%);
+		height: 4px;
+		width: 80px;
+		border-radius: 999px;
+		background: #fcca05;
+		bottom: -7px;
+	}
+	#leaf-1 {
+		width: 130px;
+	}
+	#leaf-2 {
+		width: 120px;
+		z-index: 0;
+		right: 0;
+	}
+	.img-why {
+		width: 80%;
+		margin: auto;
+		margin-top: 30px;
+	}
+	
+	.ser-h,
+	.service_text {
+		height: auto;
+	}
+	.service_text p {
+		display: block;
+		margin-top: 80px;
+	}
+	.row-2-tp .mb-0 {
+		margin-bottom: 55px!important;
+	}
+	.row-2-tp .mb-0:last-child {
+		margin-bottom: 0!important;
+	}
+	.sec-6 .mb-5 {
+		margin-bottom: 0!important;
+	}
+	.card {
+		height: auto;
+		margin-bottom: 40px;
+	}
+	.box-video {
+		width: 100%;
+		height: 300px;
+	}
+	.img-doctor {
+		margin-top: 30px;
+	}
+	.about-lycium .mb-5 {
+		margin-bottom: 1rem!important;
+	}
+	.popup-tb {
+		width: 100%;
+	}
+}
+@media (max-width: 500px)
+{
+    .question .col-md-7 {
+		order: 2
+	}
+	.img-chungnhan {
+		margin-bottom: 30px
+	}
+	.box-form {
+		width: 100%;
+		padding: 50px 25px
+	}
+	.box-price {
+		width: 100%
+	}
+	.right-price {
+		width: 55%
+	}
+	.left-price {
+		padding-left: 0
+	}
+	.box-form__img {
+		display: none
+	}
+	#img-mobile {
+		display: block
+	}
+	#img-mobile {
+		display: block;
+		position: relative;
+		left: inherit;
+		bottom: inherit;
+		text-align: center;
+		margin-bottom: 25px
+	}
+	.box-form .title-form {
+		font-size: 2rem
+	}
+	.right-price span {
+		font-size: 1.5rem
+	}
+	.left-price span {
+		font-size: 1.3rem
+	}
+}
+@media (max-width: 414px) {
+	.banner-content h3 {
+		font-size: 16px;
+		font-weight: bold;
+	}
+	.banner-content .designation
+	{
+		margin-bottom: 0;
+	}
+	.list-ques li
+	{
+		font-size: 1.7rem;
+	}
+	
+	.list-ques li p
+	{
+		line-height: 25px;
+	}
+	.left-price span
+	{
+		font-size: 1.9rem;
+	}
+	.right-price span
+	{
+		font-size: 2.2rem;
+	}
+}
+@media (max-width: 375px)
+{
+	.on-title
+	{
+		font-size: 15px;
+	}
+	.banner-content h3
+	{
+		font-size: 14px;
+	}
+}
+
